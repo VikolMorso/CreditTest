@@ -1,4 +1,4 @@
-Здание находится в папке src/ CREDITTESTO
+Задание находится в папке src/ CREDIT TESTO
 Задание сделано на react.js с использованием react-redux и redux. Код написан на js. 
 
 
