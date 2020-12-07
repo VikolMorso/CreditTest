@@ -1,3 +1,17 @@
+Здание находится в папке src/ CREDITTESTO
+Задание сделано на react.js с использованием react-redux и redux. Код написан на js. 
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
