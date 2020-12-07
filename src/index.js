@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import CreditContainer from './CreditContainer';
+import CreditContainer from './CREDIT TESTO/CreditContainer';
 import reportWebVitals from './reportWebVitals';
-import store from './redux';
+import store from './CREDIT TESTO/state/redux';
 
 ReactDOM.render(
   <React.StrictMode>

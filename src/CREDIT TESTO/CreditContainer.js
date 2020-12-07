@@ -5,7 +5,7 @@ import s from './credit.module.css'
 import {
   changePropertyValue, changeInitialPayment, changeCreditTerm,
   changeInterestRates, isSAVE, isCLEAR, persent, disableRadio
-} from './credit-reduce'
+} from './state/credit-reduce'
 
 class CreditContainer extends React.Component {
   state = {
